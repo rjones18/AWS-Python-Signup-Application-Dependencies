@@ -1,6 +1,6 @@
 
 stages:
-  - security scan
+  - security scans
   - setup and deploy
 
 variables:
